@@ -1,1 +1,0 @@
-https://git-scm.com/book/es/v2/Ramificaciones-en-Git-Ramas-Remotas
