@@ -1,1 +1,8 @@
 
+Pull Request
+Hasta este punto hemos logrado independizar nuestros cambios de los del resto del
+equipo, pero se acerca la hora de publicar nuestros cambios y surge la necesidad de
+conocer y/o validar cuán diferente es nuestra versión. Aquí es donde la herramienta de pull
+request viene al rescate.
+Para crear un pull request debemos ir a la sección de branches, buscar nuestro branch y
+clickear en el botón “New pull request”
